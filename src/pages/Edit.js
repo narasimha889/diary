@@ -25,7 +25,7 @@ function Edit() {
                                         <button type="button"
                                             class="btn btn-primary">Submit</button>
                                         <Link type="button"
-                                            class="btn btn-danger" to="/data">Cancel</Link>
+                                            class="btn btn-danger" to="/data">Can</Link>
                                     </div>
                                 </form>
                             </div>
